@@ -24,5 +24,7 @@ $ python3 main.py
 1. Make sure the directory "TrueMotion" have subfolder "fig" and "results"
 2. Make sure you "data" folder have *test.txt*, *train.txt*, and *train_block_labels.txt* file is in the root directory
 3. To run the program, run following commands:
+
         python3 main.py
+	
 4. The final predicted speaker list is "submission.csv" inside the result folder. ("submission_lstm.csv" is for LSTM)
